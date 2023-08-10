@@ -1,0 +1,78 @@
+yay #package manager
+xorg-xwayland # x11 prog usage
+qt5-wayland # wayland 
+qt6-wayland # wayland
+glfw-wayland # wayland
+xorg-xlsclients  # show prog which use x11
+hyprland-git # hyprland WM
+zsh # shell
+oh-my-zsh-git # shell plugin
+ripgrep # neovim search 
+the_silver_search # neovim search 
+swaybg # Wallpaper
+waybar-hyprland # status bar 
+wofi # application launcher
+toastify # terminal notify 
+pipewire # 
+wireplumber
+mako # Notification app``
+kitty # terminal
+
+slurp # screenshot
+grim #screenshot
+swappy #screenshot
+
+polkit-kde-agent # Authentication
+udiskie # udisk 
+fcitx5-im # input 
+fcitx-pinyin-zhwiki # input
+fcitx5-chinese-addons # input
+waydroid # android vm
+firefox # browser
+ttf-hack-nerd # font
+ttf-maple # chinese font
+clash # vpn
+unzip # compress
+clash-dashboard # vpn ui
+fd
+lazyvim # neovim plugin
+nodejs # node
+brightnessctl # Screen brightness command line utils
+cliphist # clipboard
+thunar # File explorer
+xdg-desktop-portal-gtk # Chrome needed, choose file & upload something
+xdg-desktop-portal-hyprland-git # Screen Sharing
+linux-zen-headers
+swayimg
+swaylock
+
+#media
+mpv
+obs-studio
+pavucontrol # GUI pulseaudio controller
+pamixer # Pulseaudio command line utils
+pipewire
+pipewire-pulse
+pipewire-alsa
+#pulseaudio # Audio
+#pulseaudio-bluetooth # bluetooth audio support
+bluez
+bluez-utils
+
+#theme
+qt5ct
+
+python
+python-pip
+python-pyclip
+
+global
+ctags
+os-prober
+grub-2
+
+sddm
+wemeet-bin
+com.xylink.linuxclient
+
+meld # like beyondcompare
